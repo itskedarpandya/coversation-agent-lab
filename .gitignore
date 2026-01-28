@@ -1,0 +1,18 @@
+# Security: Never commit API keys
+.env
+
+# Python compiled files
+__pycache__/
+*.pyc
+
+# Virtual Environments
+venv/
+env/
+.venv/
+
+# System files
+.DS_Store
+
+# IDE settings
+.vscode/
+.idea/
